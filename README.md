@@ -313,6 +313,29 @@ Each tool includes a short overview, stars, tags, and helpful links so you can e
 
 ---
 
+  
+### Stable Diffusion web UI
+
+<p>
+<strong>Stable Diffusion web UI</strong> is a web interface for Stable Diffusion, implemented using Gradio library..
+</p>
+
+<div>
+  <a href="https://github.com/AUTOMATIC1111/stable-diffusion-webui"><img src="https://img.shields.io/badge/Open%20Source-Yes-green"></a>
+  <a href="https://github.com/AUTOMATIC1111/stable-diffusion-webui"><img src="https://img.shields.io/github/stars/AUTOMATIC1111/stable-diffusion-webui?style=social"></a>
+</div>
+
+<p><strong>Categories:</strong> 🤖 stable-diffusion</p>
+<p><strong>GitHub:</strong> ⭐ 159k+ stars | 🍴 29.6k+ forks </p>
+
+<p>
+<a href="https://github.com/AUTOMATIC1111/stable-diffusion-webui">website</a> |
+<a href="https://github.com/AUTOMATIC1111/stable-diffusion-webui">github</a> |
+<a href="https://github.com/AUTOMATIC1111/stable-diffusion-webui#readme">docs</a>
+</p>
+
+---
+
 ## 🤝 Contributing
 
 Contributions are welcome.  
