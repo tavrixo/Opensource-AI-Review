@@ -325,7 +325,7 @@ Each tool includes a short overview, stars, tags, and helpful links so you can e
   <a href="https://github.com/AUTOMATIC1111/stable-diffusion-webui"><img src="https://img.shields.io/github/stars/AUTOMATIC1111/stable-diffusion-webui?style=social"></a>
 </div>
 
-<p><strong>Categories:</strong> 🤖 stable-diffusion</p>
+<p><strong>Categories:</strong> 🎨 Generative AI Application </p>
 <p><strong>GitHub:</strong> ⭐ 159k+ stars | 🍴 29.6k+ forks </p>
 
 <p>
@@ -354,6 +354,7 @@ All submitted tools must:
   - 💻 Coding Agents
   - ⚙️ LLM Frameworks
   - 🧠 Multi-Agent Systems
+  - 🎨 Generative AI Application
 
 ### ✍️ How to contribute
 
