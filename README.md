@@ -336,6 +336,28 @@ Each tool includes a short overview, stars, tags, and helpful links so you can e
 
 ---
 
+### AutoGen
+
+<p>
+<strong>AutoGen</strong> is a multi-agent conversation framework for building cooperative AI systems that communicate to solve complex tasks collaboratively.
+</p>
+
+<div>
+  <a href="https://github.com/microsoft/autogen"><img src="https://img.shields.io/badge/Open%20Source-Yes-green"></a>
+  <a href="https://github.com/microsoft/autogen"><img src="https://img.shields.io/github/stars/microsoft/autogen?style=social"></a>
+</div>
+
+<p><strong>Categories:</strong> 🤖 AI Agents · 🧠 Multi-Agent Systems</p>
+<p><strong>GitHub:</strong> ⭐ 52.6k+ stars | 🍴 8k+ forks </p>
+
+<p>
+<a href="https://microsoft.github.io/autogen/">website</a> |
+<a href="https://github.com/microsoft/autogen">github</a> |
+<a href="https://microsoft.github.io/autogen/docs/">docs</a>
+</p>
+
+---
+
 ## 🤝 Contributing
 
 Contributions are welcome.  
