@@ -12,6 +12,7 @@ Each tool includes a short overview, stars, tags, and helpful links so you can e
 - 💻 Coding Agents & Developer Tools  
 - ⚙️ LLM Frameworks & Orchestration
 - 🧠 Multi-Agent Systems
+- 🎨 Generative AI Application
 
 ---
 
