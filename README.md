@@ -359,6 +359,28 @@ Each tool includes a short overview, stars, tags, and helpful links so you can e
 
 ---
 
+### RunAnywhere (SDKs)
+
+<p>
+<strong>RunAnywhere (SDKs)</strong> is an open-source, production-grade on-device AI SDK that lets developers run <strong>LLMs, speech-to-text, and text-to-speech locally</strong> (offline + privacy-first) across <strong>iOS/macOS (Swift), Android (Kotlin), React Native, and Flutter</strong> using a unified API.
+</p>
+
+<div>
+  <a href="https://github.com/RunanywhereAI/runanywhere-sdks"><img src="https://img.shields.io/badge/Open%20Source-Yes-green"></a>
+  <a href="https://github.com/RunanywhereAI/runanywhere-sdks"><img src="https://img.shields.io/github/stars/RunanywhereAI/runanywhere-sdks?style=social"></a>
+</div>
+
+<p><strong>Categories:</strong> 💻 Coding Agents &amp; Developer Tools · ⚙️ LLM Frameworks </p>
+<p><strong>GitHub:</strong> ⭐ 4.1k+ stars | 🍴 133+ forks </p>
+
+<p>
+<a href="https://runanywhere.ai/">website</a> |
+<a href="https://github.com/RunanywhereAI/runanywhere-sdks">github</a> |
+<a href="https://docs.runanywhere.ai/">docs</a>
+</p>
+
+---
+
 ## 🤝 Contributing
 
 Contributions are welcome.  
@@ -374,7 +396,7 @@ All submitted tools must:
 - Demonstrate real usability beyond demos
 - Relevant to one or more of these tags:
   - 🤖 AI Agents
-  - 💻 Coding Agents
+  - 💻 Coding Agents & Developer Tools
   - ⚙️ LLM Frameworks
   - 🧠 Multi-Agent Systems
   - 🎨 Generative AI Application
