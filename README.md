@@ -370,7 +370,7 @@ Each tool includes a short overview, stars, tags, and helpful links so you can e
   <a href="https://github.com/RunanywhereAI/runanywhere-sdks"><img src="https://img.shields.io/github/stars/RunanywhereAI/runanywhere-sdks?style=social"></a>
 </div>
 
-<p><strong>Categories:</strong> 💻 Coding Agents &amp; Developer Tools · ⚙️ LLM Frameworks </p>
+<p><strong>Categories:</strong> 📐 On-Device AI Platforms · 📱 Edge AI SDKs </p>
 <p><strong>GitHub:</strong> ⭐ 4.1k+ stars | 🍴 133+ forks </p>
 
 <p>
@@ -400,6 +400,8 @@ All submitted tools must:
   - ⚙️ LLM Frameworks
   - 🧠 Multi-Agent Systems
   - 🎨 Generative AI Application
+  - 📐 On-Device AI Platforms
+  - 📱 Edge AI SDKs
 
 ### ✍️ How to contribute
 
