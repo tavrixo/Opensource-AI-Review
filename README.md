@@ -381,6 +381,27 @@ Each tool includes a short overview, stars, tags, and helpful links so you can e
 
 ---
 
+### Orkas
+
+<p>
+<strong>Orkas</strong> is an open-source, local-first desktop AI workforce where a Commander turns goals into executable plans and coordinates specialist agents in parallel or sequence through one chat.
+</p>
+
+<div>
+  <a href="https://github.com/Orkas-AI/Orkas"><img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"></a>
+  <a href="https://github.com/Orkas-AI/Orkas"><img src="https://img.shields.io/github/stars/Orkas-AI/Orkas?style=social" alt="GitHub stars"></a>
+</div>
+
+<p><strong>Categories:</strong> 🤖 AI Agents · 🧠 Multi-Agent Systems</p>
+<p><strong>GitHub:</strong> ⭐ 1,018 stars | 🍴 41 forks (Updated: 2026-08-05)</p>
+
+<p>
+<a href="https://github.com/Orkas-AI/Orkas">github</a> |
+<a href="https://github.com/Orkas-AI/Orkas#readme">docs</a>
+</p>
+
+---
+
 ## 🤝 Contributing
 
 Contributions are welcome.  
