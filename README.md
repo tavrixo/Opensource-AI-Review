@@ -402,6 +402,28 @@ Each tool includes a short overview, stars, tags, and helpful links so you can e
 
 ---
 
+### Tale
+
+<p>
+<strong>Tale</strong> is an open-source project workspace where teams delegate tasks to configured coding agents, retain agent workspaces across tasks, and review returned reports and deliverables.
+</p>
+
+<div>
+  <a href="https://github.com/tale-project/tale"><img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open source"></a>
+  <a href="https://github.com/tale-project/tale"><img src="https://img.shields.io/github/stars/tale-project/tale?style=social" alt="GitHub stars"></a>
+</div>
+
+<p><strong>Categories:</strong> 🤖 AI Agents · 💻 Coding Agents &amp; Developer Tools</p>
+<p><strong>GitHub:</strong> ⭐ 32 stars | 🍴 5 forks (Updated: 2026-10-08)</p>
+
+<p>
+<a href="https://tale.dev">website</a> |
+<a href="https://github.com/tale-project/tale">github</a> |
+<a href="https://docs.tale.dev/platform/projects/project-agents">docs</a>
+</p>
+
+---
+
 ## 🤝 Contributing
 
 Contributions are welcome.  
