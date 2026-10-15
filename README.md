@@ -402,6 +402,27 @@ Each tool includes a short overview, stars, tags, and helpful links so you can e
 
 ---
 
+### YYLO
+
+<p>
+<strong>YYLO</strong> is a command-line orchestrator for coding agents, repeatable workflows, and receipt-backed repository changes.
+</p>
+
+<div>
+  <a href="https://github.com/yylo-dev/yylo"><img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"></a>
+  <a href="https://github.com/yylo-dev/yylo"><img src="https://img.shields.io/github/stars/yylo-dev/yylo?style=social" alt="GitHub stars"></a>
+</div>
+
+<p><strong>Categories:</strong> 💻 Coding Agents · 🤖 AI Agents</p>
+<p><strong>GitHub:</strong> ⭐ 58 stars | 🍴 6 forks (Updated: 2026-09-10)</p>
+
+<p>
+<a href="https://github.com/yylo-dev/yylo">github</a> |
+<a href="https://github.com/yylo-dev/yylo#readme">docs</a>
+</p>
+
+---
+
 ## 🤝 Contributing
 
 Contributions are welcome.  
