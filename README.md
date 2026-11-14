@@ -423,6 +423,27 @@ Each tool includes a short overview, stars, tags, and helpful links so you can e
 
 ---
 
+### SandBase Harness
+
+<p>
+<strong>SandBase Harness</strong> is a self-hosted runtime for AI agents with persistent sessions, sandboxed tool execution, approval controls, and audit and replay.
+</p>
+
+<div>
+  <a href="https://github.com/sandbaseai/sandbase-harness"><img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open source"></a>
+  <a href="https://github.com/sandbaseai/sandbase-harness"><img src="https://img.shields.io/github/stars/sandbaseai/sandbase-harness?style=social" alt="GitHub stars"></a>
+</div>
+
+<p><strong>Categories:</strong> 🤖 AI Agents · 💻 Coding Agents &amp; Developer Tools</p>
+<p><strong>GitHub:</strong> ⭐ 644 | 🍴 78 (Updated: 2026-11-14)</p>
+
+<p>
+<a href="https://github.com/sandbaseai/sandbase-harness">github</a> |
+<a href="https://github.com/sandbaseai/sandbase-harness/tree/main/docs">docs</a>
+</p>
+
+---
+
 ## 🤝 Contributing
 
 Contributions are welcome.  
